@@ -1,0 +1,11 @@
+#how to use xlrd library and access data of excel files
+
+import xlrd
+
+loc=("C:\\Users\\DELL\\Desktop\\resources.xlsx")    #avoid \u error by escape character
+
+wb= xlrd.open_workbook(loc)
+
+sheet= wb.0
+
+print ( sheet.cell_value(0,0))
