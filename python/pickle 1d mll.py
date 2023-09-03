@@ -1,6 +1,6 @@
 import pickle
 
-tuple=[1,2,3,4,5]
+tuple=[1,2,3,4,5," hi can i write my secret stuff here?"]
 pfile=open("sample.txt","wb")
 pickle.dump(tuple,pfile)
 
