@@ -1,0 +1,1 @@
+print(conda.__version__)

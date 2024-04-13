@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zlibrary</string>
+    <string name="dashboard">dashboard</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="about_me">About_me</string>
+    <string name="navigation">Navigation</string>
+</resources>
