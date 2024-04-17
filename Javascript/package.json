@@ -1,0 +1,22 @@
+{
+  "name": "automation_test",
+  "version": "1.0.0",
+  "description": "commit latest version",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kulshrestha",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatankulshrestha/programming_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yatankulshrestha/programming_test/issues"
+  },
+  "homepage": "https://github.com/yatankulshrestha/programming_test#readme"
+}
