@@ -1,0 +1,2 @@
+msg="world"
+print(msg)

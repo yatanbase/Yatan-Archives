@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(255, 119, 69); 
+}
+.head {
+    color: darkblue; 
+}
+
+.redhead{
+    color:red;
+}
+
+h2:not(:contains('head')) {
+    color: blue; 
+}
+
+h2:contains('head') {
+    color: red; 
+}
+
+#bglime {
+    background-color: lime;
+}
+
+p {
+    color: white; 
+}
+
+p>span{
+    font-size: 20px; color: black;
+}
+
+ul li:nth-child(1) a {
+    color:blue;
+    background-color: rgb(219, 253, 66);
+}
+
+ul li:nth-child(2) a {
+    color:blue;
+    background-color : rgb(85, 85, 255);
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color:red;    
+}
+
